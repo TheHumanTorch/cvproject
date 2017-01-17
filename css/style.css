@@ -1,12 +1,53 @@
 #img {
- max-width: 500px;
- max-height: 500px;
+ max-width: 450px;
+ max-height: 470px;
 }
 
-
+body{
+	background-color: aquamarine;
+}
 div{
 	display: inline-block;
-	float: right;
-	left: 50%
+	left: 100%;
+	border: 3px solid black;
 
+}
+
+h1{
+	margin-top: 3%;
+	font-size: 50px;
+}
+
+nav > h2{
+	margin-top: 5%;
+	font-size: 20px;
+}
+
+div > h3{
+	font-size: 22px;
+	font-weight: bold;
+	display: block;
+	border: 3px solid black;
+	background-color: aquamarine;
+}
+
+div > h4{
+	font-size: 22px;
+	font-weight: bold;
+	display: block;
+	background-color: aquamarine;
+}
+
+div > h5{
+	font-size: 22px;
+	font-weight: bold;
+	display: block;
+	background-color: aquamarine;
+}
+
+ul#hobbylist > li {
+	font-size: 16px;
+	display: list-item;
+	border: 3px solid black;
+	list-style: circle;
 }
