@@ -62,10 +62,32 @@ ul#hobbylist > li {
     #img {
 		float: left;
 		max-width: 650px;
-        max-height: 570px;
+        max-height: 650px;
+	}
+	.paragraph{
+		width: 300px;
+		margin-right: 30%
+
 	}
 
-	
+	#hobbylist {
+		width: 300px;
+		margin-right: 35%
+	}
+
+	h1{
+	margin-top: 3%;
+	font-size: 65px;
+	}
+
+	nav > h2{
+	margin-top: 5%;
+	font-size: 35px;
+	}
+
+
+
+
 
 
 
