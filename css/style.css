@@ -51,3 +51,24 @@ ul#hobbylist > li {
 	border: 3px solid black;
 	list-style: circle;
 }
+
+@media only screen and (min-width: 600px) {
+    body {
+        background-color: lightblue;
+        margin-left: 5%;
+
+    }
+
+    #img {
+		float: left;
+		max-width: 650px;
+        max-height: 570px;
+	}
+
+	
+
+
+
+}
+
+
